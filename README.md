@@ -1,0 +1,2 @@
+# Windows10-Kali-Private-Home-Lab
+indows 10 compromise via phishing, UAC bypass, and credential dumping. Includes SIEM forensic analysis with Splunk/Sysmon.
